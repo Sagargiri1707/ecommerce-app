@@ -68,7 +68,7 @@ class Signup extends Component {
                         required
                     />
                     <FormInput
-                        type="text"
+                        type="password"
                         name="password"
                         value={this.state.password}
                         onChange={this.handleChange}
@@ -76,7 +76,7 @@ class Signup extends Component {
                         required
                     />
                     <FormInput
-                        type="text"
+                        type="password"
                         name="confirmPassword"
                         value={this.state.confirmPassword}
                         onChange={this.handleChange}
