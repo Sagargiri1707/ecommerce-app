@@ -1,0 +1,4 @@
+export const CART_ACTIONS = {
+    TOOGLE_CART_HIDDEN:'TOOGLE_CART_HIDDEN'
+}
+ 
