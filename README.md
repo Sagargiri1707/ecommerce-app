@@ -1,3 +1,15 @@
+A Simple React Frontend app for an ecommerce website
+
+See deployment here [https://ecommerce-sagar-giri.herokuapp.com]
+
+Technologies used 
+:- React Js
+:- Redux Js
+:- Stripe API
+:- Styled Components
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
